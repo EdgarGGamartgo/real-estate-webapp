@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'btredbg',
         'USER': 'postgres',
         'PASSWORD': '12345678',
-        'HOST': 'XXXXXXXXXXXXXXXXXXXXXXXXX'
+        'HOST': 'AAAAAAAAA'
     }
 }
 
